@@ -1,0 +1,258 @@
+@font-face {
+  font-family: 'ms-icons';
+  src:  url('ms-icons.eot?12jzwd');
+  src:  url('ms-icons.eot?12jzwd#iefix') format('embedded-opentype'),
+    url('ms-icons.ttf?12jzwd') format('truetype'),
+    url('ms-icons.woff?12jzwd') format('woff'),
+    url('ms-icons.svg?12jzwd#ms-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ms-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-instagram:before {
+  content: "\e90b";
+}
+.icon-facebook:before {
+  content: "\e90c";
+}
+.icon-twitter:before {
+  content: "\e90e";
+}
+.icon-linkedin:before {
+  content: "\e910";
+}
+.icon-ic-nodejs:before {
+  content: "\e900";
+}
+.icon-ic-expressjs:before {
+  content: "\e901";
+}
+.icon-ic-aws:before {
+  content: "\e902";
+}
+.icon-ic-csharp:before {
+  content: "\e903";
+}
+.icon-ic-java:before {
+  content: "\e905";
+}
+.icon-ic-python:before {
+  content: "\e906";
+}
+.icon-ic-xamarin:before {
+  content: "\e908";
+}
+.icon-ic-docker:before {
+  content: "\e909";
+}
+.icon-ic-postgresql:before {
+  content: "\e90a";
+}
+.icon-ic-UI:before {
+  content: "\e904";
+}
+.icon-ic-gear:before {
+  content: "\e907";
+}
+.icon-ic-download:before {
+  content: "\e90d";
+}
+.icon-ic-cross:before {
+  content: "\e90f";
+}
+.icon-ic-ux:before {
+  content: "\e913";
+}
+.icon-ic-left_arrow:before {
+  content: "\e915";
+}
+.icon-ic-check:before {
+  content: "\e917";
+}
+.icon-ic-chat_2:before {
+  content: "\e91a";
+}
+.icon-ic-cloud_2:before {
+  content: "\e920";
+}
+.icon-ic-downright_arrow:before {
+  content: "\e922";
+}
+.icon-ic-drop:before {
+  content: "\e924";
+}
+.icon-ic-lock:before {
+  content: "\e926";
+}
+.icon-ic-twitter:before {
+  content: "\e929";
+}
+.icon-ic-money:before {
+  content: "\e92e";
+}
+.icon-ic-code:before {
+  content: "\e930";
+}
+.icon-ic-upleft_arrow:before {
+  content: "\e937";
+}
+.icon-ic-mic:before {
+  content: "\e939";
+}
+.icon-ic-whatsapp:before {
+  content: "\e93d";
+}
+.icon-ic-location:before {
+  content: "\e940";
+}
+.icon-ic-like:before {
+  content: "\e943";
+}
+.icon-ic-calendar:before {
+  content: "\e945";
+}
+.icon-ic-chupete:before {
+  content: "\e950";
+}
+.icon-ic-right_arrow:before {
+  content: "\e953";
+}
+.icon-ic-share:before {
+  content: "\e955";
+}
+.icon-ic-chat_1:before {
+  content: "\e957";
+}
+.icon-ic-play:before {
+  content: "\e95c";
+}
+.icon-ic-youtube:before {
+  content: "\e95e";
+}
+.icon-ic-notification:before {
+  content: "\e961";
+}
+.icon-ic-mobile:before {
+  content: "\e964";
+}
+.icon-ic-home:before {
+  content: "\e966";
+}
+.icon-ic-cake:before {
+  content: "\e968";
+}
+.icon-ic-light:before {
+  content: "\e96a";
+}
+.icon-ic-instagram:before {
+  content: "\e973";
+}
+.icon-ic-eye:before {
+  content: "\e977";
+}
+.icon-ic-cloud:before {
+  content: "\e97a";
+}
+.icon-ic-upload:before {
+  content: "\e97c";
+}
+.icon-ic-atom:before {
+  content: "\e97e";
+}
+.icon-ic-power:before {
+  content: "\e980";
+}
+.icon-ic-eye_2:before {
+  content: "\e983";
+}
+.icon-ic-cloud_3:before {
+  content: "\e986";
+}
+.icon-ic-target:before {
+  content: "\e988";
+}
+.icon-ic-timer:before {
+  content: "\e98c";
+}
+.icon-ic-heart:before {
+  content: "\e991";
+}
+.icon-ic-download_2:before {
+  content: "\e993";
+}
+.icon-ic-chevron_left:before {
+  content: "\e996";
+}
+.icon-ic-linkedin:before {
+  content: "\e998";
+}
+.icon-ic-group:before {
+  content: "\e99c";
+}
+.icon-ic-web:before {
+  content: "\e99e";
+}
+.icon-ic-search:before {
+  content: "\e9a0";
+}
+.icon-ic-mail:before {
+  content: "\e9a3";
+}
+.icon-ic-heart_plus:before {
+  content: "\e9a5";
+}
+.icon-ic-wifi:before {
+  content: "\e9a8";
+}
+.icon-ic-facebook:before {
+  content: "\e9ab";
+}
+.icon-ic-upright_arrow:before {
+  content: "\e9ad";
+}
+.icon-ic-fist:before {
+  content: "\e9af";
+}
+.icon-ic-shield:before {
+  content: "\e9b8";
+}
+.icon-ic-refresh:before {
+  content: "\e9ba";
+}
+.icon-ic-downleft_arrow:before {
+  content: "\e9bc";
+}
+.icon-ic-screen:before {
+  content: "\e9be";
+}
+.icon-ic-user:before {
+  content: "\e9c0";
+}
+.icon-ic-gear2:before {
+  content: "\e9c2";
+}
+.icon-ic-crunchbase:before {
+  content: "\e9c6";
+}
+.icon-ic-chevron_right:before {
+  content: "\e9ca";
+}
+.icon-ic-coffee:before {
+  content: "\e9cc";
+}
